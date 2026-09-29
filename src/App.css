@@ -34,7 +34,10 @@
   line-height: 1.6;
   color: #b8a994;
 }
-
+.card-count {
+  margin-top: 1rem;
+  color: #b8a994;
+}
 .card-area {
   width: 100%;
   max-width: 480px;
@@ -115,6 +118,14 @@
   color: #f0e6d6;
 }
 
+.card-image {
+  max-height: 150px;
+  width: auto;
+  border-radius: 8px;
+  border: 1px solid #d4a24e55;
+  object-fit: cover;
+}
+
 .card-hint {
   font-size: 0.8rem;
   color: #8a7c6a;
@@ -146,15 +157,4 @@
   background-color: #d4a24e1a;
   border-color: #d4a24e;
   color: #f0e6d6;
-}
-
-.nav-btn:disabled {
-  opacity: 0.4;
-  cursor: not-allowed;
-}
-
-.nav-btn:disabled:hover {
-  background-color: transparent;
-  border-color: #d4a24e66;
-  color: #d4a24e;
 }
