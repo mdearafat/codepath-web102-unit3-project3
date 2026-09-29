@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<video src='./src/assets/walkthrough.mp4' width='100%' controls title='Video Walkthrough' alt='Video Walkthrough'></video>
+[Video Walkthrough](./src/assets/walkthrough.mp4)
 
 ## Notes
 
